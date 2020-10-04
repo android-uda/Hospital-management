@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="External Jar File">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/External Jar File/charm-glisten-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Jar File/commons-pool2-2.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Jar File/commons-dbcp2-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Jar File/controlsfx-8.40.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Jar File/fontawesomefx-8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Jar File/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Jar File/jsoup-1.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Jar File/jfoenix.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Jar File/ojdbc7.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Java/jdk-14.0.2/javafx-sdk-11.0.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Java/jdk-14.0.2/javafx-sdk-11.0.2/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Java/jdk-14.0.2/javafx-sdk-11.0.2/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Java/jdk-14.0.2/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
